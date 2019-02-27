@@ -3,6 +3,7 @@
 Pasos
 
 1. `python3 -m venv env`
-2. `pip install -U pytest`
-3. `pytest -q tests.py`
+2. `source env/bin/activate`
+3. `pip install -U pytest`
+4. `pytest -q tests.py`
 
